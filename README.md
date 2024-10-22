@@ -1,4 +1,7 @@
 # StarCraft Offline Patch for macOS
+
+<img src="./resources/starcraft_icon.png" width="200" align="right" />
+
 This script patches the free version of StarCraft so that it launches without the need for Battle.net or the Launcher app
 
 > [!WARNING]
