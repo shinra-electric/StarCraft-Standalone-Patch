@@ -1,4 +1,4 @@
-# StarCraft Offline Patch
+# StarCraft Offline Patch for macOS
 This script patches the free version of StarCraft so that it launches without the need for Battle.net or the Launcher app
 
 > [!WARNING]
